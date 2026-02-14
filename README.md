@@ -50,10 +50,9 @@ I'm a first-year Computer Engineering student who is always eager to learn. I en
 ---
 
 
-📊 My GitHub Journey
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gozdekcr&theme=material-palenight&background=1a1b27&ring=c9a4d8&fire=ffdee9&currStreakLabel=c9a4d8&border=2a2b3d&border_radius=12&cache_seconds=0" height="160"/>
-</div>
+📊 **My GitHub Journey**
+<div align="center"> <img src="https://streak-stats.demolab.com?user=gozdekcr&theme=material-palenight&background=1a1b27&ring=c9a4d8&fire=ffdee9&currStreakLabel=c9a4d8&border=2a2b3d&border_radius=12" height="160"/> </div>
+
 
 
 ---
