@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20🌸&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=180&section=header&text=Hi%20there!%20🌸&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 ✨ *I'm Gözde.*  ✨ <br/>
 *Code. Learn. Repeat.*
@@ -17,15 +17,16 @@
 
 ### 🌷 A Little About Me
 
-I'm a first-year Computer Engineering student who is always eager to learn. I enjoy discovering new technologies, challenging myself with fresh concepts, and constantly pushing my skills forward.🌟
+I'm a first-year Computer Engineering student who is always eager to learn. I enjoy discovering new technologies, challenging myself with fresh concepts, and constantly pushing my skills forward.
+ 
 <br/>
-🌿 Currently building small Python projects to learn by doing
+ 
+▸ Currently building small Python projects to learn by doing <br/>
+▸ Taking my first steps into Java & OOP <br/>
+▸ Always happy to connect and learn together
+ 
 <br/>
-🌿 Taking my first steps into Java & OOP
-<br/>
-🌿 Always happy to connect and learn together
-<br clear="right"/>
-
+ 
 ---
 
 ### 🧰 My Toolbox
@@ -54,6 +55,11 @@ I'm a first-year Computer Engineering student who is always eager to learn. I en
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gozdekcr&layout=compact&hide_border=true&bg_color=1a0533&title_color=c084fc&text_color=e9d5ff" height="155"/>
+
+<br/><br/>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gozdekcr&theme=tokyonight_duo&hide_border=true&background=1A1B27&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=C084FC&sideNums=C084FC&dates=888888)](https://github.com/gozdekcr)
 
 </div>
@@ -72,6 +78,6 @@ I'm a first-year Computer Engineering student who is always eager to learn. I en
 
   <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:2e1065&height=100&section=footer)
 
 </div>
