@@ -55,11 +55,6 @@ I'm a first-year Computer Engineering student who is always eager to learn. I en
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gozdekcr&layout=compact&hide_border=true&bg_color=1a0533&title_color=c084fc&text_color=e9d5ff" height="155"/>
-
-<br/><br/>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gozdekcr&theme=tokyonight_duo&hide_border=true&background=1A1B27&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=C084FC&sideNums=C084FC&dates=888888)](https://github.com/gozdekcr)
 
 </div>
