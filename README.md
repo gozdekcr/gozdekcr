@@ -37,13 +37,15 @@ I'm a first-year Computer Engineering student who is always eager to learn. I en
   
 ![Python](https://img.shields.io/badge/Python-E8D5F5?style=flat-square&logo=python&logoColor=7B5EA7)
 ![Java](https://img.shields.io/badge/Java-E8D5F5?style=flat-square&logo=openjdk&logoColor=7B5EA7)
+![HTML](https://img.shields.io/badge/HTML-E8D5F5?style=flat-square&logo=html5&logoColor=7B5EA7)
+![CSS](https://img.shields.io/badge/CSS-E8D5F5?style=flat-square&logo=css3&logoColor=7B5EA7)
 
 #### 🩷 Tools I Use
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-FFDEE9?style=flat-square&logo=visual-studio-code&logoColor=C06C94)
 ![Git](https://img.shields.io/badge/Git-FFDEE9?style=flat-square&logo=git&logoColor=C06C94)
 ![GitHub](https://img.shields.io/badge/GitHub-FFDEE9?style=flat-square&logo=github&logoColor=C06C94)
-![Linux](https://img.shields.io/badge/Linux-FFDEE9?style=flat-square&logo=linux&logoColor=C06C94)
+![Windows](https://img.shields.io/badge/Windows-FFDEE9?style=flat-square&logo=windows&logoColor=C06C94)
 
 
 </div>
