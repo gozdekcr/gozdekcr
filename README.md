@@ -17,7 +17,7 @@
 
 ### 🌷 A Little About Me
 
-I'm a first-year Computer Engineering student who is always eager to learn. I enjoy discovering new technologies, challenging myself with fresh concepts, and constantly pushing my skills forward.
+I'm a second-year Computer Engineering student who is always eager to learn. I enjoy discovering new technologies, challenging myself with fresh concepts, and constantly pushing my skills forward.
  
 <br/>
  
