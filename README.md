@@ -1,80 +1,24 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=180&section=header&text=Hi%20there!%20🌸&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
+## Gözde Kacar
 
-✨ *I'm Gözde.*  ✨ <br/>
-*Code. Learn. Repeat.*
+Computer Engineering Student · 2/4
 
-
-
-<a href="https://linkedin.com/in/gözde-kacar-227a38322"><img src="https://img.shields.io/badge/LinkedIn-E8D5F5?style=for-the-badge&logo=linkedin&logoColor=7B5EA7"/></a>
-<a href="mailto:gozdekacar02@gmail.com"><img src="https://img.shields.io/badge/Email-E8D5F5?style=for-the-badge&logo=gmail&logoColor=7B5EA7"/></a>
-
-</div>
-
----
-
-
-### 🌷 A Little About Me
-
-I'm a second-year Computer Engineering student who is always eager to learn. I enjoy discovering new technologies, challenging myself with fresh concepts, and constantly pushing my skills forward.
- 
 <br/>
- 
-▸ Currently building small Python projects to learn by doing <br/>
-▸ Taking my first steps into Java & OOP <br/>
-▸ Always happy to connect and learn together
- 
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,figma&theme=dark&perline=8" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=gozdekcr&border=1a1325&background=0e0b14&ring=b9a6e0&fire=b9a6e0&currStreakLabel=b9a6e0&sideLabels=e6e1ef&currStreakNum=ffffff&sideNums=ffffff&dates=8a8496&stroke=2a2238&border_radius=6" />
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gözde-kacar-227a38322"><img src="https://img.shields.io/badge/LinkedIn-1a1325?style=for-the-badge&logo=linkedin&logoColor=b9a6e0"/></a>
+  <a href="mailto:gozdekacar02@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1325?style=for-the-badge&logo=gmail&logoColor=b9a6e0"/></a>
+</p>
+
 <br/>
- 
----
 
-### 🧰 My Toolbox
-
-<div align="center">
-
-#### 💜 Languages I Work With
-  
-![Python](https://img.shields.io/badge/Python-E8D5F5?style=flat-square&logo=python&logoColor=7B5EA7)
-![Java](https://img.shields.io/badge/Java-E8D5F5?style=flat-square&logo=openjdk&logoColor=7B5EA7)
-![HTML](https://img.shields.io/badge/HTML-E8D5F5?style=flat-square&logo=html5&logoColor=7B5EA7)
-![CSS](https://img.shields.io/badge/CSS-E8D5F5?style=flat-square&logo=css3&logoColor=7B5EA7)
-
-#### 🩷 Tools I Use
-
-![VS Code](https://img.shields.io/badge/VS%20Code-FFDEE9?style=flat-square&logo=visual-studio-code&logoColor=C06C94)
-![Git](https://img.shields.io/badge/Git-FFDEE9?style=flat-square&logo=git&logoColor=C06C94)
-![GitHub](https://img.shields.io/badge/GitHub-FFDEE9?style=flat-square&logo=github&logoColor=C06C94)
-![Windows](https://img.shields.io/badge/Windows-FFDEE9?style=flat-square&logo=windows&logoColor=C06C94)
-
-
-</div>
-
----
-
-
-### 📊 My GitHub Journey
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gozdekcr&theme=tokyonight_duo&hide_border=true&background=1A1B27&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=C084FC&sideNums=C084FC&dates=888888)](https://github.com/gozdekcr)
-
-</div>
-
-
-
----
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=gozdekcr&color=c9a4d8&style=flat-square&label=profile+views+🌸" alt="Profile Views"/>
-
-  <br/><br/>
-
-  *"Work in progress."* 
-
-  <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:2e1065&height=100&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gozdekcr&color=1a1325&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
