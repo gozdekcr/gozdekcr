@@ -8,7 +8,7 @@
 
 
 <a href="https://linkedin.com/in/gözde-kacar-227a38322"><img src="https://img.shields.io/badge/LinkedIn-E8D5F5?style=for-the-badge&logo=linkedin&logoColor=7B5EA7"/></a>
-<a href="mailto:kcr.gozde@gmail.com"><img src="https://img.shields.io/badge/Email-E8D5F5?style=for-the-badge&logo=gmail&logoColor=7B5EA7"/></a>
+<a href="mailto:gozdekacar02@gmail.com"><img src="https://img.shields.io/badge/Email-E8D5F5?style=for-the-badge&logo=gmail&logoColor=7B5EA7"/></a>
 
 </div>
 
