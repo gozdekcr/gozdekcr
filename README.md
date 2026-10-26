@@ -11,7 +11,7 @@ Computer Engineering Student · 2/4
 <br/>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=gozdekcr&border=1a1325&background=0e0b14&ring=b9a6e0&fire=b9a6e0&currStreakLabel=b9a6e0&sideLabels=e6e1ef&currStreakNum=ffffff&sideNums=ffffff&dates=8a8496&stroke=2a2238&border_radius=6&v=2" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=gozdekcr&border=1a1325&background=0e0b14&ring=b9a6e0&fire=b9a6e0&currStreakLabel=b9a6e0&sideLabels=e6e1ef&currStreakNum=ffffff&sideNums=ffffff&dates=8a8496&stroke=2a2238&border_radius=&v=20261027" />
 </p>
 
 <br/>
